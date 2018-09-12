@@ -1,0 +1,15 @@
+html {
+  font-family: "Noto Sans", serif;
+  font-family: "Noto Sans Japanese"
+  color: #000;
+}
+
+.btn {
+  color: #0084a6;
+  border-style: solid;
+  border-color: #8bc9d9;
+}
+
+body {
+  color: #e2e2e2;
+}
